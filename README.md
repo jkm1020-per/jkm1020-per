@@ -8,7 +8,7 @@
   <p>현재는 사내에서 웹서비스 파트의 리더역할과 시스템 설계&분석 및 메인 개발자로 근무하고 있습니다.</p>
 </div>
 
-## Languages and Tools ##
+## Languages & Tools ##
 <div>
   <img src="https://img.shields.io/badge/Spring-lightgrey?style=plastic&logo=Spring&logoColor=#6DB33F">
   <img src="https://img.shields.io/badge/SpringBoot-lightgrey?style=plastic&logo=Spring Boot&logoColor=#6DB33F">
@@ -32,6 +32,10 @@
 <div>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=Eclipse IDE&logoColor=#2C2255">
   <img src="https://img.shields.io/badge/STS-green?style=plastic&logo=Spring&logoColor=#6DB33F">
+<div>
+<div>
+  <img src="https://img.shields.io/badge/Redmine-B32024?style=plastic&logo=Redmine&logoColor=#B32024">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=#D24939">
 <div>
 
 ## Contact me ##
